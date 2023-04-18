@@ -32,7 +32,7 @@ createServer({
       ]
 
     })
-  },
+  }, 
   routes() {
     this.namespace = 'api';
 
